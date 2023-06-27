@@ -6,3 +6,5 @@ Assignment 1 is on topics: #CSP, #TSP, #GeneticAlgorithm, #Nqueens, and #GraphCo
 Assignment 2 is on topics: #ML, #NeuralNetwork, #Backpropagation, and #GradientDescent.
 
 Assignment 3 is on topics: #Probability, #Independence, #BayesianNetwork, and #MarkovGame.
+
+Assignment 4 is on topics: #MarkovDecisionProcess and #ReinforcementLearning.

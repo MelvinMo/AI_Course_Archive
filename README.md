@@ -1,5 +1,5 @@
 # AI_Course_Archive
-This repository contains my undergrad artificial intelligence course activities, primarily theoretical or programming assignments.
+This repository contains my undergrad artificial intelligence course activities, primarily theoretical and programming assignments.
 
 ## Assignment 1
 It is on topics: #CSP, #TSP, #GeneticAlgorithm, #Nqueens, and #GraphColoring.

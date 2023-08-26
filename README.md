@@ -5,7 +5,7 @@ This repository contains my undergrad artificial intelligence course activities,
 It is on topics: #CSP, #TSP, #GeneticAlgorithm, #Nqueens, and #GraphColoring.
 
 ## Assignment 2
-it is on topics: #ML, #NeuralNetwork, #Backpropagation, and #GradientDescent.
+It is on topics: #ML, #NeuralNetwork, #Backpropagation, and #GradientDescent.
 
 ## Assignment 3
 It is on topics: #Probability, #Independence, #BayesianNetwork, and #MarkovGame.

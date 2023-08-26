@@ -1,7 +1,8 @@
 # AI_Course_Archive
 This repository contains my undergrad artificial intelligence course activities, primarily theoretical or programming assignments, including the final project:
 
-## Assignment 1 is on topics: #CSP, #TSP, #GeneticAlgorithm, #Nqueens, and #GraphColoring.
+## Assignment 1:
+It is on topics #CSP, #TSP, #GeneticAlgorithm, #Nqueens, and #GraphColoring.
 
 Assignment 2 is on topics: #ML, #NeuralNetwork, #Backpropagation, and #GradientDescent.
 
